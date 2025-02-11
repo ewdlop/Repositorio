@@ -1,0 +1,10 @@
+usando Sistema;
+usando System.Collections.Generic;
+usando System.Linq;
+usando System.Reflection;
+usando System.Text;
+usando System.Runtime.InteropServices;
+usando System.Net.Http;
+usando System.Text.Json;
+usando System.Threading.Tasks;
+entero x = 0;
