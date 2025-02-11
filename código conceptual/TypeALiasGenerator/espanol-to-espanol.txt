@@ -8,3 +8,5 @@ usando System.Net.Http;
 usando System.Text.Json;
 usando System.Threading.Tasks;
 entero x = 0;
+
+utilizando el sistema; usando System. Collections. Generic; utilizando el sistema. linq; Sistema. reflexión; Uso del sistema. texto; usando System. Runtime. InteropServices; usando System. Net. Http; usando System.Text.Json; usando System. Threading. Tasks; entero x = 0;
