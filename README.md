@@ -27,3 +27,19 @@ Sí, lo mismo aplica para la versión en chino de la documentación de Windows A
 - **Siempre usa la documentación en inglés**: [Windows API Index (en-US)](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list).  
 - **Solo usa la versión en chino o español para comprender los conceptos**, pero cuando escribas código, **siempre usa los nombres en inglés.**  
 - **Si tienes dudas con la implementación de una API específica, dime y te ayudo a escribir el código correctamente.** 🚀
+
+## especailly natural translate to espnaoel
+
+Sí, lo mismo aplica para la versión en chino de la documentación de Windows API.  
+
+📌 **La página en chino de [Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/win32/apiindex/windows-api-list) es solo una traducción y no se puede usar directamente para programar.**  
+
+⚠️ **Razones por las que no puedes usar la versión traducida para escribir código**:  
+- **Los nombres de las funciones, constantes y estructuras de la API de Windows están en inglés.** El compilador **no reconoce versiones traducidas**, solo los nombres originales en inglés.  
+- **Las traducciones pueden tener errores o interpretaciones imprecisas, especialmente con términos técnicos.**  
+- **El código de ejemplo también debe estar en inglés,** ya que cualquier intento de traducir los nombres de las funciones romperá la compilación.  
+
+### ✅ **¿Qué hacer entonces?**  
+- **Siempre usa la documentación en inglés**: [Windows API Index (en-US)](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list).  
+- **Solo usa la versión en chino o español para comprender los conceptos**, pero cuando escribas código, **siempre usa los nombres en inglés.**  
+- **Si tienes dudas con la implementación de una API específica, dime y te ayudo a escribir el código correctamente.** 🚀
