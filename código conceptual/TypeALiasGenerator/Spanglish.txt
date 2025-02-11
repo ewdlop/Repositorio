@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Text;
+using System.Runtime.InteropServices;
+using System.Net.Http;
+using System.Text.Json;
+using System.Threading.Tasks;
+int x = 0;
+
+utilizando el sistema;
+usando System. Collections. Generic;
+utilizando el sistema. linq;
+Sistema. reflexión;
+Uso del sistema. texto;
+por ejemplo, System. Runtime. InteropServices.
+por ejemplo, System. Net. Http.
+por ejemplo System.Text.json;
+usando System. Threading. Tasks;
+entero x = 0;
