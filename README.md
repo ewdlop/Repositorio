@@ -1,3 +1,5 @@
+[![CodeQL Advanced](https://github.com/ewdlop/Repositorio/actions/workflows/codeql.yml/badge.svg)](https://github.com/ewdlop/Repositorio/actions/workflows/codeql.yml)
+
 # Repositorio
 Español(西班牙文) 
 
